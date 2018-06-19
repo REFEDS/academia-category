@@ -66,7 +66,7 @@ Identity Providers MUST resolve issues of non-compliance within a reasonable per
 
 [AcademicInstitutionWikipedia] http://en.wikipedia.org/wiki/Academic_institution.
 
-[eduPerson] Internet2 MACE Directory Working Group, “eduPerson Object Class Specification (201602)”, February 2016.
+[eduPerson] Internet2 MACE Directory Working Group, “eduPerson Object Class Specification (201602)”, February 2016. See:  http://software.internet2.edu/eduperson/internet2-mace-dir-eduperson-201602.html.
 
 [EntityCatTypes] Young, I, Johansson, L, and Cantor, S Ed., "The Entity Category SAML Attribute Types", July 2014.
 
