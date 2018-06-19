@@ -27,7 +27,7 @@ Note that the funding mechanism (private, public or mixed) is not a factor in th
 3. Syntax
 ---------
 
-The following URI is used as the attribute value for the Entity Category attribute: http://refeds.org/category/academic-institution
+The following URI is used as the attribute value for the Entity Category attribute: https://refeds.org/category/academic-institution
 
 
 4. Semantics
