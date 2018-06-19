@@ -64,8 +64,6 @@ Identity Providers MUST resolve issues of non-compliance within a reasonable per
 
 [ISCED] ISCED 2011, http://uis.unesco.org/en/topic/international-standard-classification-education-isced.
 
-[AcademicInstitutionWikipedia] http://en.wikipedia.org/wiki/Academic_institution.
-
 [eduPerson] Internet2 MACE Directory Working Group, “eduPerson Object Class Specification (201602)”, February 2016. See:  http://software.internet2.edu/eduperson/internet2-mace-dir-eduperson-201602.html.
 
 [EntityCatTypes] Young, I, Johansson, L, and Cantor, S Ed., "The Entity Category SAML Attribute Types", July 2014.
