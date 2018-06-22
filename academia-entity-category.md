@@ -54,7 +54,7 @@ When an Identity Provider’s registrar (normally the Identity Provider’s home
 
 5.3.2 The mdui:DisplayName accurately reflects the organisation in question.
 
-5.3.3 The Identity Provider commits to releasing appropriate required attributes to Service Providers.  
+5.3.3 The Identity Provider commits to releasing the eduPersonScopedAffiliation attribute to Service Providers that request it.
 
 Identity Providers MUST resolve issues of non-compliance within a reasonable period of time from when they become aware of the issue. Failure to do so MUST result in the registrar revoking the entity’s membership in the category.
 
