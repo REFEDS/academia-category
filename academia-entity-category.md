@@ -35,7 +35,7 @@ The following URI is used as the attribute value for the Entity Category attribu
 
 By asserting that an Identity Provider is a member of the Academic Institution Entity Category a registrar claims that the Identity Provider fulfils the criteria described above in the jurisdiction of the registrar. 
 
-Specifically a relying party SHOULD NOT assume that an assertion received from an Identity Provider with the Academic Institution Entity Category represents a Subject (as defined in [SAMLCore]) with any particular affiliation to the institution on behalf of which the Identity Provider is operated.  eduPersonScopedAffiliation MUST be used to determine the affiliation status of users. 
+Specifically a relying party should not assume that an assertion received from an Identity Provider with the Academic Institution Entity Category represents a Subject (as defined in [SAMLCore]) with any particular affiliation to the institution on behalf of which the Identity Provider is operated.  eduPersonScopedAffiliation MUST be used to determine the affiliation status of users. 
 
 Conversely, the absence of the Academic Institution Entity Category does not mean that the Identity Provider does not in fact represent one or more academic institutions.
 
